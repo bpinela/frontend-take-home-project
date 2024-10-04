@@ -1,0 +1,9 @@
+export const CANVAS_SIZE = 0.8;
+export const PEN_LINE_CAP = 'round';
+export const PEN_COLOR = '#000';
+export const PEN_WIDTH = 4;
+export const ERASER_COLOR = '#FFF';
+export const ERASER_WIDTH = 16;
+export const IMAGE_WIDTH = 100;
+export const IMAGE_HEIGHT = 100;
+export const DEFAULT_TEXT = '16px Arial';

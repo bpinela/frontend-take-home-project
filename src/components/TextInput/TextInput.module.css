@@ -1,0 +1,13 @@
+.textInputContainer {
+  position: absolute;
+  display: flex;
+}
+
+.textInput {
+  color: #FFF;
+  font-size: 16px;
+}
+
+.addTextButton {
+  padding: 4px;
+}
